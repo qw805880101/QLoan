@@ -97,31 +97,66 @@
       <groupId>com.handy</groupId>
       <artifactId>qloan_bankCardId_library</artifactId>
       <version>1.0.0</version>
+      <type>aar</type>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.handy</groupId>
       <artifactId>qloan_IDCard_library</artifactId>
       <version>1.0.0</version>
+      <type>aar</type>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.handy</groupId>
       <artifactId>qloan_liveness_library</artifactId>
       <version>1.0.0</version>
+      <type>aar</type>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.handy</groupId>
       <artifactId>qloan_pickerview_library</artifactId>
       <version>1.0.0</version>
+      <type>aar</type>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.handy</groupId>
       <artifactId>qloan_sliding_library</artifactId>
       <version>1.0.0</version>
+      <type>aar</type>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.handy</groupId>
