@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.handy</groupId>
-  <artifactId>qloan_library</artifactId>
+  <artifactId>qloan_sliding_library</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20171115092422</lastUpdated>
+    <lastUpdated>20171115092421</lastUpdated>
   </versioning>
 </metadata>

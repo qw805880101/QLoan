@@ -95,37 +95,37 @@
     </dependency>
     <dependency>
       <groupId>cashloanSdk</groupId>
-      <artifactId>slidingmenu</artifactId>
+      <artifactId>qloan_sliding_library</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>cashloanSdk</groupId>
-      <artifactId>wrmvplibrary</artifactId>
+      <artifactId>qloan_wrmvp_library</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>cashloanSdk</groupId>
-      <artifactId>IDCardLib</artifactId>
+      <artifactId>qloan_IDCard_library</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>cashloanSdk</groupId>
-      <artifactId>livenesslib</artifactId>
+      <artifactId>qloan_liveness_library</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>cashloanSdk</groupId>
-      <artifactId>pickerview</artifactId>
+      <artifactId>qloan_pickerview_library</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>cashloanSdk</groupId>
-      <artifactId>bankCardLib</artifactId>
+      <artifactId>qloan_bankCardId_library</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
